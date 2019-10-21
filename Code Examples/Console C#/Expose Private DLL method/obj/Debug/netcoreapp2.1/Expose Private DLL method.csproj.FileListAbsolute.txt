@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Expose Private DLL method.deps.json
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Expose Private DLL method.runtimeconfig.json
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Expose Private DLL method.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Expose Private DLL method.dll
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Expose Private DLL method.pdb
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Test Library.dll
+C:\Users\Administrator\source\repos\Expose Private DLL method\bin\Debug\netcoreapp2.1\Test Library.pdb
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.dll
+C:\Users\Administrator\source\repos\Expose Private DLL method\obj\Debug\netcoreapp2.1\Expose Private DLL method.pdb

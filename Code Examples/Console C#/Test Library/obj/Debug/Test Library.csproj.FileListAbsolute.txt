@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Test Library\bin\Debug\Test Library.dll
+C:\Users\Administrator\source\repos\Test Library\bin\Debug\Test Library.pdb
+C:\Users\Administrator\source\repos\Test Library\obj\Debug\Test Library.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Test Library\obj\Debug\Test Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Test Library\obj\Debug\Test Library.dll
+C:\Users\Administrator\source\repos\Test Library\obj\Debug\Test Library.pdb
