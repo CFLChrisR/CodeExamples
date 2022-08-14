@@ -1,1 +1,1 @@
-This example uses the "Test Library" available one level up in Github. The purpose of this application is to expose the porvate method in the .DLL.
+This example uses the "Test Library" available one level up in Github. The purpose of this application is to expose the private method in the .DLL.
